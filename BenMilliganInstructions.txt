@@ -1,0 +1,1 @@
+Ben MilliganAlgorithmsDr. LinProject 1	The compiler I used to compile my program was MinGW. I used cLion and C++11 to code my project. In order to run the program you have to make into an executable and run the program. You then enter in the information the program requests and run the program.
